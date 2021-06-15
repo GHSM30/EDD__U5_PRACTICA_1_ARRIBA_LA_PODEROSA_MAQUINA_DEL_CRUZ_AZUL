@@ -3,10 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//Miembros del equipo:
-//Guillermo Hilario Santos Moya 19400676 <----------------------------
-//https://www.youtube.com/watch?v=yXy7WzgUaSA
-//http://puntocomnoesunlenguaje.blogspot.com/2012/12/java-quicksort.html#:~:text=El%20m%C3%A9todo%20de%20ordenaci%C3%B3n%20Quicksort,m%C3%A1s%20peque%C3%B1os%2C%20y%20ordenar%20%C3%A9stos.
+/*
+“Arriba la poderosa máquina del Cruz Azul”
+1. Kevin Arturo Castellanos Amador
+2. Guillermo Hilario Santos Moya
+3. Alejandro Joya Barajas
+4. Axel Ulises Paredes Rubio
+*/
 /**
  *
  * @author MEMO0464
