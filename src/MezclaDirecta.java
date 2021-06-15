@@ -3,9 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//Miembros del equipo:
-//Guillermo Hilario Santos Moya 19400676 <----------------------------
-//https://www.youtube.com/watch?v=78YazSSNDAw
+/*
+“Arriba la poderosa máquina del Cruz Azul”
+1. Kevin Arturo Castellanos Amador
+2. Guillermo Hilario Santos Moya
+3. Alejandro Joya Barajas
+4. Axel Ulises Paredes Rubio
+*/
 /**
  *
  * @author MEMO0464
